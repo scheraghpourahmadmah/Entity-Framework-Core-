@@ -1,0 +1,15 @@
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WiziLib_DataAccess.deps.json
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WiziLib_DataAccess.dll
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\ref\WiziLib_DataAccess.dll
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WiziLib_DataAccess.pdb
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WizLib_Model.dll
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WizLib_Model.pdb
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.csproj.AssemblyReference.cache
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.AssemblyInfoInputs.cache
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.AssemblyInfo.cs
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.csproj.CoreCompileInputs.cache
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.csproj.CopyComplete
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.dll
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\ref\WiziLib_DataAccess.dll
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.pdb
