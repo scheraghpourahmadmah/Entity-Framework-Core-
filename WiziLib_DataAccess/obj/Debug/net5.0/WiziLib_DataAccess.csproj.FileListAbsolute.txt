@@ -1,6 +1,5 @@
 D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WiziLib_DataAccess.deps.json
 D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WiziLib_DataAccess.dll
-D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\ref\WiziLib_DataAccess.dll
 D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WiziLib_DataAccess.pdb
 D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WizLib_Model.dll
 D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WizLib_Model.pdb
@@ -13,3 +12,7 @@ D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAcc
 D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.dll
 D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\ref\WiziLib_DataAccess.dll
 D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.pdb
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WiziLib_DataAccess.runtimeconfig.json
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\bin\Debug\net5.0\WiziLib_DataAccess.runtimeconfig.dev.json
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\refint\WiziLib_DataAccess.dll
+D:\Programming\Sholeh\WizLib\WiziLib_DataAccess\obj\Debug\net5.0\WiziLib_DataAccess.genruntimeconfig.cache

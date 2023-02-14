@@ -1,6 +1,5 @@
 D:\Programming\Sholeh\WizLib\WizLib_Model\bin\Debug\net5.0\WizLib_Model.deps.json
 D:\Programming\Sholeh\WizLib\WizLib_Model\bin\Debug\net5.0\WizLib_Model.dll
-D:\Programming\Sholeh\WizLib\WizLib_Model\bin\Debug\net5.0\ref\WizLib_Model.dll
 D:\Programming\Sholeh\WizLib\WizLib_Model\bin\Debug\net5.0\WizLib_Model.pdb
 D:\Programming\Sholeh\WizLib\WizLib_Model\obj\Debug\net5.0\WizLib_Model.csproj.AssemblyReference.cache
 D:\Programming\Sholeh\WizLib\WizLib_Model\obj\Debug\net5.0\WizLib_Model.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ D:\Programming\Sholeh\WizLib\WizLib_Model\obj\Debug\net5.0\WizLib_Model.csproj.C
 D:\Programming\Sholeh\WizLib\WizLib_Model\obj\Debug\net5.0\WizLib_Model.dll
 D:\Programming\Sholeh\WizLib\WizLib_Model\obj\Debug\net5.0\ref\WizLib_Model.dll
 D:\Programming\Sholeh\WizLib\WizLib_Model\obj\Debug\net5.0\WizLib_Model.pdb
+D:\Programming\Sholeh\WizLib\WizLib_Model\obj\Debug\net5.0\refint\WizLib_Model.dll
