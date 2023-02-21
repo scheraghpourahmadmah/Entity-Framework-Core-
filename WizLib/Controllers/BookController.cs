@@ -212,18 +212,38 @@ namespace WizLib.Controllers
             //_db.SaveChanges();
 
             //Updating Related Data
-            var bookTemp1 = _db.Books.Include(b => b.BookDetail).FirstOrDefault(b => b.Book_Id == 4);
-            bookTemp1.BookDetail.NumberOfChapters = 2222;
-            bookTemp1.Price = 12345;
-            _db.Books.Update(bookTemp1);
-            _db.SaveChanges();
+            //var bookTemp1 = _db.Books.Include(b => b.BookDetail).FirstOrDefault(b => b.Book_Id == 4);
+            //bookTemp1.BookDetail.NumberOfChapters = 2222;
+            //bookTemp1.Price = 12345;
+            //_db.Books.Update(bookTemp1);
+            //_db.SaveChanges();
 
-            var bookTemp2 = _db.Books.Include(b => b.BookDetail).FirstOrDefault(b => b.Book_Id == 4);
-            bookTemp2.BookDetail.Weight = 3333;
-            bookTemp2.Price = 123456;
-            _db.Books.Attach(bookTemp2);
-            _db.SaveChanges();
+            //var bookTemp2 = _db.Books.Include(b => b.BookDetail).FirstOrDefault(b => b.Book_Id == 4);
+            //bookTemp2.BookDetail.Weight = 3333;
+            //bookTemp2.Price = 123456;
+            //_db.Books.Attach(bookTemp2);
+            //_db.SaveChanges();
 
+
+
+            //VIEWS
+
+            var viewList = _db.BookDetailsFromViews.ToList();
+            var viewList1 = _db.BookDetailsFromViews.FirstOrDefault();
+            var viewList2 = _db.BookDetailsFromViews.Where(u=>u.Price>500);
+
+            //RAW SQL
+            var bookRaw = _db.Books.FromSqlRaw("Select * from dbo.books").ToList();
+            //If you have parameter(SQL Injection attack prone
+            var id = 2;
+            var bookTemp1 = _db.Books.FromSqlRaw($"Select * from dbo.books where Book_Id={id}").ToList();
+
+            var booksSproc = _db.Books.FromSqlInterpolated($" EXEC dbo.getAllBookDetails {id}").ToList();
+
+
+            //.Net 5 Only
+            var BookFilter1 = _db.Books.Include(e => e.BookAuthors.Where(p => p.Author_Id == 5)).ToList();
+            var BookFilter2 = _db.Books.Include(e => e.BookAuthors.OrderByDescending(p => p.Author_Id).Take(2)).ToList();
 
             return RedirectToAction(nameof(Index));
         }
